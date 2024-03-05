@@ -1,7 +1,7 @@
 """
 Author: Edgar Rodriguez Sanchez
 Name: Results tracker
-LastModified: 02/29/2024
+LastModified: 03/05/2024
 
 This is a GUI soccer program that is used to track game results of my top 4 watched teams.
 
